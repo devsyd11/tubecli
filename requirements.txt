@@ -1,0 +1,4 @@
+yt-dlp>=2024.1.0
+rich>=13.0.0
+static-ffmpeg>=2.1
+pyinstaller>=6.0.0
